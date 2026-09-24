@@ -1,0 +1,37 @@
+{
+    "users": {
+        "valid_user": {
+            "username": "Launchpad3.1",
+            "password": "Admin@123"
+        },
+        "invalid_user": {
+            "username": "wronguser",
+            "password": "WrongPassword!"
+        }
+    },
+    "profile_data": {
+        "first_name": "Test",
+        "last_name": "User",
+        "email": "testuser_qa@example.com"
+    },
+    "reference_documents": {
+        "sanity": {
+        "group_name": "test_poc_1",
+        "title": "sanity_ref_doc",
+        "description": "sanity reference document test",
+        "link": "https://example.com"
+        }
+    },
+
+    "wayside_subscription": {
+        "sanity": {
+            "name": "test_1",
+            "formats": {
+                "excel": true,
+                "aoa": true
+            }
+        }
+    }
+
+
+}

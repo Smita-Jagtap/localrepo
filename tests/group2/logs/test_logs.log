@@ -1,0 +1,82 @@
+2026-06-11 15:50:12 [DEBUG] Starting new HTTPS connection (1): inmumvm26325635:443
+2026-06-11 15:50:12 [DEBUG] https://inmumvm26325635:443 "GET /wims HTTP/1.1" 301 237
+2026-06-11 15:50:12 [DEBUG] https://inmumvm26325635:443 "GET /wims/ HTTP/1.1" 200 3380
+2026-06-11 15:50:12 [DEBUG] Using proactor: IocpProactor
+2026-06-11 15:50:19 [INFO] Starting login flow
+2026-06-11 15:50:19 [INFO] Login page loaded
+2026-06-11 15:50:20 [INFO] External user selected
+2026-06-11 15:50:21 [INFO] Username entered
+2026-06-11 15:50:22 [INFO] Password entered
+2026-06-11 15:50:23 [INFO] Login form submitted
+2026-06-11 15:50:23 [INFO] Starting execution of test_reports_hover_options[chromium]
+2026-06-11 15:50:27 [INFO] Finished execution of test_reports_hover_options[chromium]
+2026-06-11 15:50:27 [INFO] Starting execution of test_open_canned_reports[chromium]
+2026-06-11 15:50:27 [INFO] Opening Canned Reports List
+2026-06-11 15:50:29 [INFO] Finished execution of test_open_canned_reports[chromium]
+2026-06-11 15:50:29 [INFO] Starting execution of test_add_new_canned_report[chromium]
+2026-06-11 15:50:29 [INFO] Opening Canned Reports List
+2026-06-11 15:50:48 [INFO] Finished execution of test_add_new_canned_report[chromium]
+2026-06-11 15:50:48 [INFO] Starting execution of test_upload_image[chromium]
+2026-06-11 15:50:48 [INFO] Opening Canned Reports List
+2026-06-11 15:51:09 [INFO] Finished execution of test_upload_image[chromium]
+2026-06-11 15:51:09 [INFO] Starting execution of test_upload_image_more_than_5mb[chromium]
+2026-06-11 15:51:09 [INFO] Opening Canned Reports List
+2026-06-11 15:51:23 [INFO] Finished execution of test_upload_image_more_than_5mb[chromium]
+2026-06-11 15:51:23 [INFO] Starting execution of test_upload_pdf[chromium]
+2026-06-11 15:51:23 [INFO] Opening Canned Reports List
+2026-06-11 15:51:36 [INFO] Finished execution of test_upload_pdf[chromium]
+2026-06-11 15:51:36 [INFO] Starting execution of test_upload_excel[chromium]
+2026-06-11 15:51:36 [INFO] Opening Canned Reports List
+2026-06-11 15:51:50 [INFO] Finished execution of test_upload_excel[chromium]
+2026-06-11 15:51:50 [INFO] Starting execution of test_delete_report_no[chromium]
+2026-06-11 15:51:50 [INFO] Opening Canned Reports List
+2026-06-11 15:51:58 [INFO] Finished execution of test_delete_report_no[chromium]
+2026-06-11 15:51:58 [INFO] Starting execution of test_delete_report_yes[chromium]
+2026-06-11 15:51:58 [INFO] Opening Canned Reports List
+2026-06-11 15:52:13 [INFO] Finished execution of test_delete_report_yes[chromium]
+2026-06-11 15:52:13 [INFO] Starting execution of test_edit_popup_opens[chromium]
+2026-06-11 15:52:13 [INFO] Opening Canned Reports List
+2026-06-11 15:52:20 [INFO] Finished execution of test_edit_popup_opens[chromium]
+2026-06-11 15:52:20 [INFO] Starting execution of test_edit_report_save[chromium]
+2026-06-11 15:52:20 [INFO] Opening Canned Reports List
+2026-06-11 15:52:40 [INFO] Finished execution of test_edit_report_save[chromium]
+2026-06-11 15:52:40 [INFO] Starting execution of test_no_edit_report_save[chromium]
+2026-06-11 15:52:40 [INFO] Opening Canned Reports List
+2026-06-11 15:52:55 [INFO] Finished execution of test_no_edit_report_save[chromium]
+2026-06-11 15:52:55 [INFO] Starting execution of test_close_button_confirmation[chromium]
+2026-06-11 15:52:55 [INFO] Opening Canned Reports List
+2026-06-11 15:53:03 [INFO] Finished execution of test_close_button_confirmation[chromium]
+2026-06-11 15:53:03 [INFO] Starting execution of test_edit_close_no[chromium]
+2026-06-11 15:53:03 [INFO] Opening Canned Reports List
+2026-06-11 15:53:15 [INFO] Finished execution of test_edit_close_no[chromium]
+2026-06-11 15:53:15 [INFO] Starting execution of test_edit_close_yes[chromium]
+2026-06-11 15:53:15 [INFO] Opening Canned Reports List
+2026-06-11 15:53:24 [INFO] Finished execution of test_edit_close_yes[chromium]
+2026-06-11 15:53:24 [INFO] Starting execution of test_edit_cancel_confirmation_yes[chromium]
+2026-06-11 15:53:24 [INFO] Opening Canned Reports List
+2026-06-11 15:53:33 [INFO] Finished execution of test_edit_cancel_confirmation_yes[chromium]
+2026-06-11 15:53:33 [INFO] Starting execution of test_edit_cancel_no[chromium]
+2026-06-11 15:53:33 [INFO] Opening Canned Reports List
+2026-06-11 15:53:42 [INFO] Finished execution of test_edit_cancel_no[chromium]
+2026-06-11 15:53:42 [INFO] Starting execution of test_export_options_visible[chromium]
+2026-06-11 15:53:42 [INFO] Opening Canned Reports List
+2026-06-11 15:53:47 [INFO] Finished execution of test_export_options_visible[chromium]
+2026-06-11 15:53:47 [INFO] Starting execution of test_export_excel_download[chromium]
+2026-06-11 15:53:47 [INFO] Opening Canned Reports List
+2026-06-11 15:53:54 [INFO] File downloaded: C:\All_document\POC\Launchpad_POC\downloads\Canned Report_11 Jun 2026-15-53-23520.xlsx
+2026-06-11 15:54:01 [INFO] Finished execution of test_export_excel_download[chromium]
+2026-06-11 15:54:01 [INFO] Starting execution of test_export_pdf_download[chromium]
+2026-06-11 15:54:01 [INFO] Opening Canned Reports List
+2026-06-11 15:54:09 [INFO] File downloaded: C:\All_document\POC\Launchpad_POC\downloads\Canned Report_11 Jun 2026-15-54-23521.pdf
+2026-06-11 15:54:16 [INFO] Finished execution of test_export_pdf_download[chromium]
+2026-06-11 15:54:16 [INFO] Starting execution of test_export_download_history[chromium]
+2026-06-11 15:54:16 [INFO] Opening Export Download History
+2026-06-11 15:54:20 [INFO] Finished execution of test_export_download_history[chromium]
+2026-06-11 15:54:20 [INFO] Starting execution of test_export_download_history_file_download[chromium]
+2026-06-11 15:54:20 [INFO] Opening Export Download History
+2026-06-11 15:54:25 [INFO] Finished execution of test_export_download_history_file_download[chromium]
+2026-06-11 15:54:25 [INFO] Starting execution of test_tableau_link[chromium]
+2026-06-11 15:54:25 [INFO] Opening Reports menu
+2026-06-11 15:54:30 [INFO] Finished execution of test_tableau_link[chromium]
+2026-06-11 15:54:30 [INFO] Starting execution of test_logout[chromium]
+2026-06-11 15:54:32 [INFO] Finished execution of test_logout[chromium]
