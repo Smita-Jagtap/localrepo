@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test Automation Framework
 
 A modular Test Automation Framework for an Angular Web Application using Playwright, Python, and Pytest.
@@ -36,3 +37,6 @@ HTML reports are generated in the `reports/` directory.
 
 ## Logs
 Logs are captured in `logs/test_logs.log`.
+=======
+# This is my Local Repo
+>>>>>>> ecd55ee3381228cf6007e9b463dfbfae563c06dc
